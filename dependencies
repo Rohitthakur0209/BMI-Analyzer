@@ -1,0 +1,4 @@
+convert: ^3.1.2
+cupertino_icons: ^1.0.6
+async: ^2.12.0
+http: ^1.2.2
