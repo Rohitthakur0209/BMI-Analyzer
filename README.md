@@ -17,3 +17,4 @@ A Flutter-based mobile application that calculates your Body Mass Index (BMI) ba
 
 
 ## 📡 API Integration (Gemini API)
+- Google API
