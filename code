@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   var suggestion = "";
   bool isLoading = false;
 
-  final String apiKey = "AIzaSyAyrvJ9mKYQwuwlD-83A2hKKSQrvBZbTik";
+  final String apiKey = "Your API key here";
 
   Future<void> fetchDietSuggestion(double bmi) async {
     setState(() {
